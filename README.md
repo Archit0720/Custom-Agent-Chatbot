@@ -1,4 +1,4 @@
-Author - Archit Dogra
+ **Author - Archit Dogra**
 
 # Custom-Agent-Chatbot 
 # 🎭 AI Ctharacter Chat Studio
