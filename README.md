@@ -1,4 +1,6 @@
-# Custom-Agent-Chatbo 
+Author - Archit Dogra
+
+# Custom-Agent-Chatbot 
 # 🎭 AI Ctharacter Chat Studio
 
 An advanced AI-powered application that brings fictional characters to life for immersive conversations. Create, chat, and interact with any fictional character using state-of-the-art language models.
